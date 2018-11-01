@@ -1,0 +1,56 @@
+﻿
+@{
+    Layout = null;
+    HBContext ctx = new HBContext();
+}
+@model Anket
+
+<style>
+    .yuzde {
+        width: 100%;
+        height: 10px;
+        position: relative;
+    }
+    .oran{
+        height:100%;
+        position:relative;
+        background-color:fuchsia;
+    }
+    
+</style>
+
+@helper OranGetir(int anketid)
+{  HBContext ctx = new HBContext();
+var oySayisi = ctx.AnketSecenek.FirstOrDefault(x => x.Id == anketid).OySayisi;
+var orani = (100 * oySayisi )/ Model.KatilimciSayisi;
+Write(orani);
+    }
+
+<aside id="block_poll" class="content">
+    <form action="/Home/OyVer/@Model.Id" method="post">
+        <h3>@Model.Baslik</h3>
+        @{
+            List<AnketSecenek> secenekler = ctx.AnketSecenek.Where(x => x.AnketId == Model.Id).ToList();
+
+        }
+        <div id="edit-choice">
+
+
+            @foreach (var secenek in secenekler)
+            {
+            <div class="form-item">
+
+                <label for="edit-choice-@secenek.Sira">@secenek.Metin (% @OranGetir(secenek.Id))</label>
+                <div class="yuzde">
+                    <div class="oran" style="width:@OranGetir(secenek.Id)%"> &nbsp;</div>
+                </div>
+            </div>
+            }
+
+
+        </div>
+       
+
+    </form>
+</aside>
+

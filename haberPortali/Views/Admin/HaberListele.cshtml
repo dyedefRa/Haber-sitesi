@@ -1,0 +1,71 @@
+﻿@model IEnumerable<haberPortali.Haber>
+
+@{
+    ViewBag.Title = "HaberListele";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>HaberListele</h2>
+
+<p>
+    @Html.ActionLink("Yeni Haber oluştur","HaberEkle")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Baslik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ozet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Icerik)
+        </th>
+   
+        <th>
+            @Html.DisplayNameFor(model => model.YayimTarihi)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.ResimYol)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.VideoYol)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Baslik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ozet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Icerik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.YayimTarihi)
+        </td>
+
+       
+        <td>
+            <img src="@item.ResimYol" width="150" height="100" alt="Alternate Text" />
+        </td>
+     
+        <td>
+            @Html.DisplayFor(modelItem => item.VideoYol)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Detayları", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Sil", "/HaberSil/", new { id=item.Id })
+           
+        </td>
+    </tr>
+}
+
+</table>

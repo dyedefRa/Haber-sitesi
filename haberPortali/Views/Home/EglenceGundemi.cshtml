@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+
+<div id="block_content_top_tabs" class="block">
+    <ul>
+        <li><a href="#block_video"><span class="bg">Video</span></a></li>
+        <li><a href="#block_opinions"><span class="bg">Görüş</span></a></li>
+        <li><a href="#block_extra"><span class="bg">Extra</span></a></li>
+        <li><a href="#block_poll"><span class="bg">Anket</span></a></li>
+    </ul>
+    @{ 
+        Html.RenderAction("block_Video");
+        //Html.RenderAction("block_Option");
+        Html.RenderAction("block_Extra");
+        Html.RenderAction("block_Anket");
+    }
+    
+    
+    
+</div>

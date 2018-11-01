@@ -1,0 +1,46 @@
+﻿@model IEnumerable<haberPortali.Kategori>
+
+@{
+    ViewBag.Title = "KategoriListele";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>KategoriListele</h2>
+
+<p>
+    @Html.ActionLink("Yeni Kategori Ekle", "KategoriEkle")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Adi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ResimYol)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Adi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Aciklama)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ResimYol)
+        </td>
+        <td>
+            @Html.ActionLink("Düzenle", "KategoriDuzenle", new { id=item.Id }) |
+           
+            @Html.ActionLink("Sil", "KategoriSil", new {  id=item.Id  })
+        </td>
+    </tr>
+}
+
+</table>

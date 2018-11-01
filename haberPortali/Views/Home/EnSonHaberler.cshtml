@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = null;
+}
+@model List<Haber>
+<aside id="block_latest_headlines" class="block">
+    <h3 class="block_title">Son Haberler !.</h3>
+    <div class="content">
+        <ul>
+            @{
+                int sayac = 0;
+            }
+
+            @foreach (var haber in Model)
+            {
+                if (sayac == 0)
+                {
+                    <li class="first"><a href="/Haber/Goster/@haber.Baslik/@haber.Id">@haber.Baslik</a></li>
+                    sayac++;
+                }
+                else if (sayac == 6)
+                {
+                    <li class="last"><a href="/Haber/Goster/@haber.Baslik/@haber.Id">@haber.Baslik</a></li>
+                }
+                else
+                {
+                    <li><a href="/Haber/Goster/@haber.Baslik/@haber.Id">@haber.Baslik</a></li>
+                    sayac++;
+                }
+            }
+
+        </ul>
+        <p><a href="/Haber/TumSonHaberler" class="view_all"><span><span>Tüm Haberler</span></span></a></p>
+    </div>
+</aside>

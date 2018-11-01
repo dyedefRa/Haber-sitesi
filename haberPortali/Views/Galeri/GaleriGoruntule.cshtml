@@ -1,0 +1,203 @@
+﻿
+@{
+    ViewBag.Title = "GaleriGoruntule";
+}
+@model Haber
+@{ HBContext ctx = new HBContext();
+
+    List<Yorum> yorumlar = ctx.Yorum.Where(x => x.HaberId == Model.Id).ToList();
+    List<Resim> resimler = ctx.Resim.Where(x => x.HaberId == Model.Id).ToList();
+
+
+    //List<Etiket> etiketler=  ctx.Etiket.Join(ctx.HaberEtiket, x => x.Id, y => y.EtiketId, (xx, yy) => new
+    //{ yy.Etiket,
+    //    yy.HaberId }).Join(ctx.Haber, x => x.HaberId, y => y.Id, (xx, yy) => xx.Etiket).ToList();
+    var haberEtiket = ctx.HaberEtiket.Where(x => x.HaberId == Model.Id).ToList();
+
+
+}
+
+@helper begeniDurumu(Yorum yrm)
+    {
+        int k = Convert.ToInt32(yrm.Begeni) - Convert.ToInt32(yrm.Tiksinti);
+
+
+        <span class="positive"><span class="guncelpuan">  @k </span> </span>
+
+
+}
+
+@*@section head{
+    <script>
+        $(document).ready(function () {
+
+            $("a.rate_up").click(function () {
+                var yorumID = $(this).data["yID"];
+                var yol = "/Haber/YorumBegen/" + yorumID;
+
+                $.ajax({
+                    type: "GET",
+                    url: yol,
+                    success: function (data) {
+                        alert("WUW");
+                        $("span.guncelpuan").html(data);
+
+                    },
+                    error: function () {
+                        alert("SIKIONTI");
+                    }
+                });
+
+            });
+
+            $("a.rate_down").click(function () {
+                var yorumID = $(this).data["yID"];
+                var yol = "/Haber/YorumTiksin/" + yorumID;
+
+                $.ajax({
+                    type: "GET",
+                    url: yol,
+                    success: function (data) {
+                        alert("WUW");
+                        $("span.guncelpuan").html(data);
+
+                    },
+                    error: function () {
+                        alert("SIKINTI");
+                    }
+                });
+
+            });
+
+        });
+    </script>
+}*@
+
+
+<div id="container">
+    <div class="wrapper">
+
+        <div id="page">
+            <!-- content -->
+            <div id="content">
+                <div class="region">
+                    <article class="node">
+                        <h2 class="title">@Model.Baslik <span class="photos">(@resimler.Count Resim)</span></h2>
+                        <div class="content block">
+                            <p class="date date_main">
+                                <time datetime="2012-01-24">@Model.YayimTarihi</time>
+                                <span class="author"> <a href="/Yazar/Profil/@Model.YazarId">Yazar ADI</a></span><span class="comments_count"><a href="#">@yorumlar.Count</a></span> <span class="email_print_pdf"><a href="#" class="email"></a></span>
+                            </p>
+                            <!-- AddThis Button BEGIN -->
+                            <div class="addthis_toolbox addthis_default_style "> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> <a class="addthis_button_tweet"></a> <a class="addthis_button_google_plusone" g:plusone:size="medium"></a> <a class="addthis_counter addthis_pill_style"></a> </div>
+                            <script type="text/javascript" src="../../s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f3c188f442f3bf2"></script>
+                            <!-- AddThis Button END -->
+                            <section class="about">
+                                <div class="ad-gallery">
+                                    <div class="ad-image-wrapper"></div>
+                                    <div class="ad-controls"></div>
+                                    <div class="ad-nav">
+                                        <div class="ad-thumbs">
+                                            <ul class="ad-thumb-list">
+                                                @foreach (var rsm in resimler)
+                                                {
+                                                    <li><a href="@rsm.ResimYol"><img src="@rsm.KucukYol" alt="@rsm.Ozet" /></a></li>
+                                                }
+
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section>
+                                <p>@Model.Icerik </p>
+                                <p class="tags">
+                                    Etiketler:
+                                    @*@foreach (var etk in haberEtiket)
+                                    {
+                                        <a href="/Etiket/HaberListele/@etk.EtiketId">@etk.Etiket.Adi</a>,
+                                                                                                                                                                                                
+                                    }*@
+                                </p>
+                            </section>
+                            <!-- AddThis Button BEGIN -->
+                            <div class="addthis_toolbox addthis_default_style " style="margin-bottom:12px;"> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> <a class="addthis_button_tweet"></a> <a class="addthis_button_google_plusone" g:plusone:size="medium"></a> <a class="addthis_counter addthis_pill_style"></a> <span class="email_print_pdf"><a href="#" class="email"></a></span></div>
+                            <script type="text/javascript" src="../../s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f3c188f442f3bf2"></script>
+                            <!-- AddThis Button END -->
+                            <p><a href="#comment_form" class="view_all"><span><span>Yorum yapın.</span></span></a></p>
+
+                            <section id="comments">
+                                <h3 class="block_title">@yorumlar.Count</h3>
+                                <ul>
+
+                                    @foreach (var yrm in yorumlar)
+                                    {
+                                        <li>
+                                            <div class="details">
+                                                <div class="photo"><a href="#"><img src="images/bg_user.png" alt="Photo" /></a></div>
+                                                <div class="name">
+                                                    <h4 class="title"><a href="#">@yrm.AdSoyad</a></h4>
+                                                    <p class="date">
+                                                        <time datetime="2012-01-29">@yrm.Tarih</time>
+                                                    </p>
+                                                </div>
+                                                <div class="rate"> <a href="javascript:void(0)" class="rate_up" data-yID="@yrm.Id"></a>@begeniDurumu(yrm)<a href="javascript:void(0)" class="rate_down" data-yID="@yrm.Id"></a> </div>
+                                            </div>
+                                            <div class="content">
+                                                <p>@yrm.Icerik</p>
+                                            </div>
+
+                                        </li>
+
+
+                                    }
+
+
+                                </ul>
+                            </section>
+
+                            <div id="comment_form">
+                                <h3 class="block_title">Bir Yorum Bırak</h3>
+                                <p>Görüşünü paylaşmak için yorum bırakmayı ihmal etmeyiniz</p>
+                                <form action="/Haber/YorumYap/@Model.Id" method="post">
+                                    <div class="form-item">
+                                        <label for="edit-submitted-name">İsim:</label>
+                                        <input type="text" class="form-text" value="" size="60" id="edit-submitted-name" name="txtAdSoyad" maxlength="128" required />
+                                        <span title="Bu alan gereklidir.." class="form-required">(Gerekli*)</span>
+                                    </div>
+                                    <div class="form-item">
+                                        <label for="edit-submitted-email">Email:</label>
+                                        <input type="email" class="form-text" value="" size="60" id="edit-submitted-email" name="txtEmail" maxlength="128" required />
+                                        <span title="Bu alan gereklidir.." class="form-required">(Gerekli*)</span>
+                                    </div>
+
+                                    <div class="form-item">
+                                        <label for="edit-submitted-message">Yorum: </label>
+                                        <textarea class="form-textarea" id="edit-submitted-message" name="txtIcerik" rows="5" cols="60"></textarea>
+                                    </div>
+                                    <div id="edit-actions">
+                                        <button type="submit"><span class="view_all_medium"><span><span>Yorumu Gönder</span></span></span></button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+            <!-- end content -->
+        </div>
+        <!-- right sidebar -->
+        <div id="right_sidebar">
+            <div class="region">
+                @{
+                    Html.RenderAction("EglenceGundemi", "Home");
+                }
+                
+         
+            </div>
+        </div>
+        <!-- end right sidebar -->
+    </div>
+</div>
+

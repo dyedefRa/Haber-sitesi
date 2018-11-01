@@ -1,0 +1,463 @@
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\haberPortali.dll.config
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\haberPortali.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\haberPortali.pdb
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\obj\Debug\haberPortali.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\haberPortali\haberPortali\obj\Debug\haberPortali.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\haberPortali\haberPortali\obj\Debug\haberPortali.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\obj\Debug\haberPortali.pdb
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\netstandard.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.AppContext.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Collections.Concurrent.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Collections.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Collections.NonGeneric.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Collections.Specialized.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.ComponentModel.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.ComponentModel.Primitives.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Console.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Data.Common.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.Contracts.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.Debug.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.Process.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.Tools.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.Tracing.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Drawing.Primitives.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Dynamic.Runtime.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Globalization.Calendars.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Globalization.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Globalization.Extensions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.Compression.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.IsolatedStorage.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Linq.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Linq.Expressions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Linq.Parallel.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Linq.Queryable.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.Http.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.NameResolution.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.NetworkInformation.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.Ping.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.Primitives.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.Requests.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.Security.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.Sockets.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.WebSockets.Client.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Net.WebSockets.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.ObjectModel.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Reflection.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Reflection.Extensions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Reflection.Primitives.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Resources.Reader.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Resources.ResourceManager.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Resources.Writer.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.Extensions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.Handles.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.InteropServices.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.Numerics.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Security.Claims.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Security.Principal.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Security.SecureString.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Text.Encoding.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Text.RegularExpressions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Threading.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Threading.Overlapped.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Threading.Tasks.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Threading.Thread.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Threading.ThreadPool.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Threading.Timer.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.ValueTuple.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Xml.XDocument.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Xml.XmlSerializer.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Options.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Remotion.Linq.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.ComponentModel.Annotations.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Data.SqlClient.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Interactive.Async.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Options.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\Remotion.Linq.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Collections.Immutable.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Interactive.Async.xml
+C:\Users\Asus\source\repos\haberPortali\haberPortali\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\haberPortali.dll.config
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\haberPortali.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\haberPortali.pdb
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\netstandard.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.AppContext.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Collections.Concurrent.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Collections.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Collections.NonGeneric.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Collections.Specialized.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.ComponentModel.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.ComponentModel.Primitives.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Console.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Data.Common.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.Contracts.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.Debug.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.Process.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.Tools.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.Tracing.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Drawing.Primitives.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Dynamic.Runtime.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Globalization.Calendars.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Globalization.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Globalization.Extensions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.Compression.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.IsolatedStorage.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Linq.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Linq.Expressions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Linq.Parallel.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Linq.Queryable.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.Http.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.NameResolution.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.NetworkInformation.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.Ping.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.Primitives.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.Requests.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.Security.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.Sockets.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.WebSockets.Client.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Net.WebSockets.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.ObjectModel.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Reflection.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Reflection.Extensions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Reflection.Primitives.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Resources.Reader.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Resources.ResourceManager.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Resources.Writer.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.Extensions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.Handles.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.InteropServices.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.Numerics.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Security.Claims.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Security.Principal.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Security.SecureString.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Text.Encoding.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Text.RegularExpressions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Threading.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Threading.Overlapped.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Threading.Tasks.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Threading.Thread.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Threading.ThreadPool.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Threading.Timer.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.ValueTuple.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Xml.XDocument.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Xml.XmlSerializer.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Options.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Remotion.Linq.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.ComponentModel.Annotations.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Data.SqlClient.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Interactive.Async.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Options.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\Remotion.Linq.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Collections.Immutable.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Interactive.Async.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\obj\Debug\haberPortali.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\obj\Debug\haberPortali.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\obj\Debug\haberPortali.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.HTML + ISKELET+MASTER+FULL\haberPortali\haberPortali\obj\Debug\haberPortali.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\haberPortali.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\haberPortali.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\haberPortali.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\netstandard.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.AppContext.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Collections.Concurrent.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Collections.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Collections.NonGeneric.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Collections.Specialized.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.ComponentModel.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.ComponentModel.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Console.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Data.Common.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.Contracts.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.Debug.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.Process.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.Tools.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.Tracing.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Drawing.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Dynamic.Runtime.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Globalization.Calendars.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Globalization.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Globalization.Extensions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.Compression.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.IsolatedStorage.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Linq.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Linq.Expressions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Linq.Parallel.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Linq.Queryable.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.Http.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.NameResolution.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.NetworkInformation.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.Ping.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.Requests.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.Security.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.Sockets.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.WebSockets.Client.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Net.WebSockets.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.ObjectModel.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Reflection.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Reflection.Extensions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Reflection.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Resources.Reader.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Resources.ResourceManager.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Resources.Writer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.Extensions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.Handles.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.InteropServices.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.Numerics.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Security.Claims.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Security.Principal.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Security.SecureString.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Text.Encoding.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Text.RegularExpressions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Threading.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Threading.Overlapped.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Threading.Tasks.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Threading.Thread.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Threading.ThreadPool.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Threading.Timer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.ValueTuple.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Xml.XDocument.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Xml.XmlSerializer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Options.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Remotion.Linq.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.ComponentModel.Annotations.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Data.SqlClient.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Interactive.Async.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Options.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\Remotion.Linq.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Collections.Immutable.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Interactive.Async.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\obj\Debug\haberPortali.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\obj\Debug\haberPortali.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\obj\Debug\haberPortali.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\obj\Debug\haberPortali.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\WEB\$.haberPortali.mvc\haberPortali\haberPortali\obj\Debug\haberPortali.pdb

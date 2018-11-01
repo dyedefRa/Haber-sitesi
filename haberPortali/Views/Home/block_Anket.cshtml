@@ -1,0 +1,68 @@
+﻿
+@{
+    Layout = null;
+}
+@model Anket
+
+<aside id="block_poll" class="content">
+    <form action="/Home/OyVer/@Model.Id" method="post">
+        <h3>@Model.Baslik</h3>
+        @{ HBContext ctx = new HBContext();
+            List<AnketSecenek> secenekler=ctx.AnketSecenek.Where(x => x.AnketId == Model.Id).ToList();
+
+        }
+        <div id="edit-choice">
+
+
+            @foreach (var secenek in secenekler)
+    {
+        <div class="form-item">
+            <input type="radio" value="@secenek.Id" name="choice" id="edit-choice-@secenek.Sira" />
+            <label for="edit-choice-@secenek.Sira">@secenek.Metin</label>
+        </div>
+}
+
+           
+        </div>
+        <button type="submit"><span class="view_all"><span><span>Oy Ver</span></span></span></button>
+       
+    </form>
+</aside>
+
+@*<aside id="block_poll" class="content">
+    <form action="#" method="post">
+        <h3>Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac?</h3>
+        <div id="edit-choice">
+            <div class="form-item">
+                <input type="radio" value="1" name="choice" id="edit-choice-1" checked />
+                <label for="edit-choice-1">Mauris accumsan</label>
+            </div>
+            <div class="form-item">
+                <input type="radio" value="2" name="choice" id="edit-choice-2" />
+                <label for="edit-choice-2">Nulla vel diam</label>
+            </div>
+            <div class="form-item">
+                <input type="radio" value="3" name="choice" id="edit-choice-3" />
+                <label for="edit-choice-3">Sed in lacus ut enim adipiscing</label>
+            </div>
+            <div class="form-item">
+                <input type="radio" value="4" name="choice" id="edit-choice-4" />
+                <label for="edit-choice-4">In pede mi, aliquet sit</label>
+            </div>
+            <div class="form-item">
+                <input type="radio" value="5" name="choice" id="edit-choice-5" />
+                <label for="edit-choice-5">Amet, euismod in</label>
+            </div>
+            <div class="form-item">
+                <input type="radio" value="6" name="choice" id="edit-choice-6" />
+                <label for="edit-choice-6">Mauris accumsan</label>
+            </div>
+            <div class="form-item">
+                <input type="radio" value="7" name="choice" id="edit-choice-7" />
+                <label for="edit-choice-7">Nulla vel diam</label>
+            </div>
+        </div>
+        <button type="submit"><span class="view_all"><span><span>Vote</span></span></span></button>
+        <a href="#" class="view_all"><span><span>Results</span></span></a>
+    </form>
+</aside>*@

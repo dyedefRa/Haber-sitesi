@@ -1,0 +1,16 @@
+﻿
+@{
+    Layout = null;
+}
+@model List<Haber>
+<aside id="block_video" class="content">
+    <div class="video"></div>
+    <ul>
+        @foreach (var video in Model)
+    {
+        <li class="vimeo"><a href="@video.VideoYol"></a></li>
+}
+
+    </ul>
+    <p><a href="/Haber/TumVideoHaberleri" class="view_all"><span><span>Tüm Videolar</span></span></a></p>
+</aside>

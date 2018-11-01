@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = null;
+}
+@model List<Haber>
+
+@helper Kisalt(string metin)
+    {
+if (metin.Length > 50)
+{
+    metin.Substring(0, 50);
+}
+else
+{
+    @metin;
+}
+
+    }
+
+<section id="block_editors_choice" class="block">
+    <h3 class="block_title">Editörün Seçtikleri</h3>
+    <div class="content">
+        <ul>
+            @foreach (var haber in Model)
+    {
+        <li>
+            <div class="editors_inner2">
+                <article class="editors_inner">
+                    <div class="editors_left"><img src="@haber.KucukResimYol" style="width:120px; height:90px;" alt="@haber.Ozet" /></div>
+                    <div class="editors_right">
+                        <h4 class="title"><a href="/Galeri/GaleriGoruntule/@haber.Baslik/@haber.Id">@haber.Baslik</a></h4>
+                        <p class="date">
+                            <time datetime="@haber.YayimTarihi">@haber.YayimTarihi.ToString()</time>
+                            <span class="comments_count"><a href="#">@haber.Yorum.Count</a></span>
+                        </p>
+                        <p>@Kisalt(haber.Ozet)</p>
+                    </div>
+                </article>
+            </div>
+        </li>
+}
+
+        </ul>
+    </div>
+</section>

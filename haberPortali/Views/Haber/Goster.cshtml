@@ -1,0 +1,155 @@
+﻿
+@{
+    ViewBag.Title = "Goster";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    HBContext ctx = new HBContext();
+
+}
+@model Haber
+@{
+    //var yazarAdi = ctx.AspnetUsers.FirstOrDefault(x => x.UserId == Model.YazarId).UserName;
+    var haberEtiket = ctx.HaberEtiket.Where(x => x.HaberId == Model.Id).ToList();
+
+    var yorumlar = ctx.Yorum.Where(x => x.HaberId == Model.Id);
+
+
+
+
+}
+@helper begeniDurumu(Yorum yrm)
+    {
+        int k = Convert.ToInt32(yrm.Begeni) - Convert.ToInt32(yrm.Tiksinti);
+     
+        
+            <span class="positive"><span class="guncel">  @k </span> </span>
+      
+
+}
+<div class="wrapper">
+    <br />
+    <br />
+    <div id="page">
+        <!-- content -->
+        <div id="content">
+            <div class="region">
+                <article class="node">
+                    <h2 class="title">@Model.Baslik</h2>
+                    <div class="content block">
+                        <p class="date date_main">
+                            <time datetime="@Model.YayimTarihi">@Model.YayimTarihi</time>
+                            <span class="author"> <a href="#">@*@yazarAdi*@</a></span><span class="comments_count"><a href="#">@yorumlar.ToList().Count</a></span> <span class="email_print_pdf"><a href="#" class="email"></a><a href="#" class="print"></a><a href="#" class="pdf"></a></span>
+                        </p>
+                        <!-- AddThis Button BEGIN -->
+                        <div class="addthis_toolbox addthis_default_style "> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> <a class="addthis_button_tweet"></a> <a class="addthis_button_google_plusone" g:plusone:size="medium"></a> <a class="addthis_counter addthis_pill_style"></a> </div>
+                        <script type="text/javascript" src="../../s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f3c188f442f3bf2"></script>
+                        <!-- AddThis Button END -->
+                        <section class="content">
+                            <p>
+                                <img style="width:280px; height:210px;" src="@Model.KucukResimYol" alt="@Model.Baslik" class="align_left" /><b>
+                                    @Model.Ozet
+                                </b><br />
+                                @Model.Icerik
+                            <p class="tags">
+                                Etiketler:
+                                @foreach (var item in haberEtiket)
+                                {
+                                    <a href="/Etiket/Listele/@item.Etiket.Adi/@item.EtiketId">@item.Etiket.Adi</a>
+                                }
+                            </p>
+                        </section>
+                        <!-- AddThis Button BEGIN -->
+                        <div class="addthis_toolbox addthis_default_style " style="margin-bottom:12px;"> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> <a class="addthis_button_tweet"></a> <a class="addthis_button_google_plusone" g:plusone:size="medium"></a> <a class="addthis_counter addthis_pill_style"></a> <span class="email_print_pdf"><a href="#" class="email"></a><a href="#" class="print"></a><a href="#" class="pdf"></a></span></div>
+                        <script type="text/javascript" src="../../s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f3c188f442f3bf2"></script>
+                        <!-- AddThis Button END -->
+                        <p><a href="#comment_form" class="view_all"><span><span>Yorum Yapın</span></span></a><span class="previous_next"></span></p>
+
+                        <section id="comments">
+                            <h3 class="block_title">@yorumlar.ToList().Count Yorum</h3>
+                            <ul>
+                                @foreach (var item in yorumlar)
+                                {
+                                    <li>
+                                        <div class="details">
+                                            <div class="photo"></div>
+                                            <div class="name">
+                                                <h4 class="title">@item.AdSoyad</h4>
+                                                <p class="date">
+                                                    <time datetime="2012-01-29">@item.Tarih</time>
+                                                </p>
+                                            </div>
+                                            <div class="rate"> <a href="javascript:void(0)" class="rate_up" data-yID="@item.Id"  ></a> @begeniDurumu(item)<a href="javascript:void(0)" class="rate_down" ></a> </div>
+                                        </div>
+
+                                        <script>
+                                            $(".rate_up").click(function () {
+                                                var yorumID = $(this).data("yID");
+                                                $.ajax({
+                                                    type: "POST",
+                                                    url: "/Haber/YorumBegen/" + @item.Id,
+                                                    success: function (data) {
+
+                                                        $(".guncel").html(data);
+                                                    }
+
+                                                });
+                                            });
+
+                                            $(".rate_down").click(function () {
+
+
+                                                $.ajax({
+                                                    type: "POST",
+                                                    url: "/Haber/YorumTiksin/" + @item.Id,
+                                                    success: function (ss) {
+
+                                                        $(".guncel").html(ss);
+                                                    }
+
+                                                });
+                                            });
+                                        </script>
+                                        <div class="content">
+                                            <p>@item.Icerik</p>
+                                        </div>
+
+                                    </li>
+                                }
+
+
+                            </ul>
+                        </section>
+                        <div id="comment_form">
+                            <h3 class="block_title">Bir Yorum Bırak</h3>
+                            <p>Görüşünü paylaşmak için yorum bırakmayı ihmal etmeyiniz</p>
+                            <form action="/Haber/YorumYap/@Model.Id" method="post">
+                                <div class="form-item">
+                                    <label for="edit-submitted-name">İsim:</label>
+                                    <input type="text" class="form-text" value="" size="60" id="edit-submitted-name" name="txtAdSoyad" maxlength="128" required />
+                                    <span title="Bu alan gereklidir.." class="form-required">(Gerekli*)</span>
+                                </div>
+                                <div class="form-item">
+                                    <label for="edit-submitted-email">Email:</label>
+                                    <input type="email" class="form-text" value="" size="60" id="edit-submitted-email" name="txtEmail" maxlength="128" required />
+                                    <span title="Bu alan gereklidir.." class="form-required">(Gerekli*)</span>
+                                </div>
+
+                                <div class="form-item">
+                                    <label for="edit-submitted-message">Yorum: </label>
+                                    <textarea class="form-textarea" id="edit-submitted-message" name="txtIcerik" rows="5" cols="60"></textarea>
+                                </div>
+                                <div id="edit-actions">
+                                    <button type="submit"><span class="view_all_medium"><span><span>Yorumu Gönder</span></span></span></button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </article>
+                <span id="change_font_size"> <a href="#" class="font_size_down">A-</a> <a href="#" class="font_size_normal">A</a> <a href="#" class="font_size_up">A+</a></span>
+            </div>
+        </div>
+        <!-- end content -->
+    </div>
+</div>
+
+
+

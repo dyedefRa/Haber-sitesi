@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Anasayfa";
+}
+
+@*HOME/INDEX*@
+
+<div id="content_top">
+    <div class="region">
+        <aside id="block_breaking_news" class="block">
+            <h3 class="block_title">Breaking News:</h3>
+            <div class="content">
+                <ul>
+                    <li><a href="#">Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede.</a></li>
+                    <li><a href="#">Donec in velit vel ipsum auctor pulvinar. Vestibulum iaculis lacinia est.</a></li>
+                    <li><a href="#">Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipis.</a></li>
+                </ul>
+            </div>
+        </aside>
+        @{ 
+            Html.RenderAction("SliderGetir");
+            Html.RenderAction("EnSonHaberler");
+            Html.RenderAction("EglenceGundemi");
+            Html.RenderAction("FotoSliderGetir");
+        }
+       
+
+        
+    </div>
+</div>
+

@@ -1,0 +1,69 @@
+body.fixed {
+	background-color:#3c3c3c;
+}
+/* Default, Red */
+#above_header, #header, .red #above_header, .red #header, .quote_start, .quote_end, .red .quote_start, .red .quote_end {
+	background-color:#990000;
+}
+#content_top #block_breaking_news h3.block_title, #block_main_menu li.active a, #under_header #block_main_menu li a:hover, 
+.block .comments_count a, #wrapper .view_all:hover, .block h5.category, .block h5.category a,
+#block_follow li a:hover, #block_web_services li a:hover, #block_weather .tempr, .ui-tabs-nav li.ui-state-active a, #block_tags li a:hover, #wrapper .view_all_medium:hover, #wrapper .view_all_big:hover, .block .accordions h3.ui-state-active, #content table td.total, ul.pager li.active a,
+.red #content_top #block_breaking_news h3.block_title, .red #block_main_menu li.active a, .red #under_header #block_main_menu li a:hover, 
+.red .block .comments_count a, .red #wrapper .view_all:hover, .red .block h5.category, .red .block h5.category a,
+.red #block_follow li a:hover, .red #block_web_services li a:hover, .red #block_weather .tempr, .red .ui-tabs-nav li.ui-state-active a, .red #block_tags li a:hover, blockquote, .red blockquote, .red #wrapper .view_all_medium:hover, .red #wrapper .view_all_big:hover, .red .block .accordions h3.ui-state-active, .red #content table td.total, .red ul.pager li.active a {
+	color:#990000;
+}
+/* Blue */
+.blue #above_header, .blue #header, .blue .quote_start, .blue .quote_end {
+	background-color:#0e72d5;
+}
+.blue #content_top #block_breaking_news h3.block_title, .blue #block_main_menu li.active a, .blue #under_header #block_main_menu li a:hover, 
+.blue .block .comments_count a, .blue #wrapper .view_all:hover, .blue .block h5.category, .blue .block h5.category a,
+.blue #block_follow li a:hover, .blue #block_web_services li a:hover, .blue #block_weather .tempr, .blue .ui-tabs-nav li.ui-state-active a, .blue #block_tags li a:hover, .blue blockquote, .blue #wrapper .view_all_medium:hover, .blue #wrapper .view_all_big:hover, .blue .block .accordions h3.ui-state-active, .blue #content table td.total, .blue ul.pager li.active a {
+	color:#0e72d5;
+}
+/* Dark Blue */
+.dark_blue #above_header, .dark_blue #header, .dark_blue .quote_start, .dark_blue .quote_end {
+	background-color:#163a61;
+}
+.dark_blue #content_top #block_breaking_news h3.block_title, .dark_blue #block_main_menu li.active a, .dark_blue #under_header #block_main_menu li a:hover, 
+.dark_blue .block .comments_count a, .dark_blue #wrapper .view_all:hover, .dark_blue .block h5.category, .dark_blue .block h5.category a,
+.dark_blue #block_follow li a:hover, .dark_blue #block_web_services li a:hover, .dark_blue #block_weather .tempr, .dark_blue .ui-tabs-nav li.ui-state-active a, .dark_blue #block_tags li a:hover, .dark_blue blockquote, .dark_blue #wrapper .view_all_medium:hover, .dark_blue #wrapper .view_all_big:hover, .dark_blue .block .accordions h3.ui-state-active, .dark_blue #content table td.total, .dark_blue ul.pager li.active a {
+	color:#163a61;
+}
+/* Dark Grey */
+.dark_grey #above_header, .dark_grey #header, .dark_grey .quote_start, .dark_grey .quote_end {
+	background-color:#121212;
+}
+.dark_grey #content_top #block_breaking_news h3.block_title, .dark_grey #block_main_menu li.active a, .dark_grey #under_header #block_main_menu li a:hover, 
+.dark_grey .block .comments_count a, .dark_grey #wrapper .view_all:hover, .dark_grey .block h5.category, .dark_grey .block h5.category a,
+.dark_grey #block_follow li a:hover, .dark_grey #block_web_services li a:hover, .dark_grey #block_weather .tempr, .dark_grey .ui-tabs-nav li.ui-state-active a, .dark_grey #block_tags li a:hover, .dark_grey blockquote, .dark_grey #wrapper .view_all_medium:hover, .dark_grey #wrapper .view_all_big:hover, .dark_grey .block .accordions h3.ui-state-active, .dark_grey #content table td.total, .dark_grey ul.pager li.active a {
+	color:#121212;
+}
+/* Green */
+.green #above_header, .green #header, .green .quote_start, .green .quote_end {
+	background-color:#365902;
+}
+.green #content_top #block_breaking_news h3.block_title, .green #block_main_menu li.active a, .green #under_header #block_main_menu li a:hover, 
+.green .block .comments_count a, .green #wrapper .view_all:hover, .green .block h5.category, .green .block h5.category a,
+.green #block_follow li a:hover, .green #block_web_services li a:hover, .green #block_weather .tempr, .green .ui-tabs-nav li.ui-state-active a, .green #block_tags li a:hover, .green blockquote, .green #wrapper .view_all_medium:hover, .green #wrapper .view_all_big:hover, .green .block .accordions h3.ui-state-active, .green #content table td.total, .green ul.pager li.active a {
+	color:#365902;
+}
+/* Grey */
+.grey #above_header, .grey #header, .grey .quote_start, .grey .quote_end {
+	background-color:#5c5c5c;
+}
+.grey #content_top #block_breaking_news h3.block_title, .grey #block_main_menu li.active a, .grey #under_header #block_main_menu li a:hover, 
+.grey .block .comments_count a, .grey #wrapper .view_all:hover, .grey .block h5.category, .grey .block h5.category a,
+.grey #block_follow li a:hover, .grey #block_web_services li a:hover, .grey #block_weather .tempr, .grey .ui-tabs-nav li.ui-state-active a, .grey #block_tags li a:hover, .grey blockquote, .grey #wrapper .view_all_medium:hover, .grey #wrapper .view_all_big:hover, .grey .block .accordions h3.ui-state-active, .grey #content table td.total, .grey ul.pager li.active a {
+	color:#5c5c5c;
+}
+/* Orange */
+.orange #above_header, .orange #header, .orange .quote_start, .orange .quote_end {
+	background-color:#e8651c;
+}
+.orange #content_top #block_breaking_news h3.block_title, .orange #block_main_menu li.active a, .orange #under_header #block_main_menu li a:hover, 
+.orange .block .comments_count a, .orange #wrapper .view_all:hover, .orange .block h5.category, .orange .block h5.category a,
+.orange #block_follow li a:hover, .orange #block_web_services li a:hover, .orange #block_weather .tempr, .orange .ui-tabs-nav li.ui-state-active a, .orange #block_tags li a:hover, .orange blockquote, .orange #wrapper .view_all_medium:hover, .orange #wrapper .view_all_big:hover, .orange .block .accordions h3.ui-state-active, .orange #content table td.total, .orange ul.pager li.active a {
+	color:#e8651c;
+}

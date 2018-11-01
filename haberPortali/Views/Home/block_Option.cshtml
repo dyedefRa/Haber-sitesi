@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = null;
+}
+@model List<Gorus>
+    @{ 
+        int sayac = 0;
+       
+    }
+<aside id="block_opinions" class="content">
+    <ul>
+        @foreach (var gorus in Model)
+        {
+            <li @if (sayac==Model.Count-1)
+            {
+                Write("class='last'");
+                sayac++;
+            }>
+                <article>
+                    @*IMG DURUMU SIKINTILI*@
+                    <div class="photo"><a href="/Yazar/YazarDetay/@gorus.YazarId"><img src="#" alt="Photo" /></a></div>
+                    <div class="details">
+                        <h4 class="title"><a href="/Gorus/GorusGoster/@gorus.Baslik/@gorus.Id">@gorus.Baslik</a></h4>
+                        <p class="date">
+                            <time datetime="@gorus.GorusTarihi">@gorus.GorusTarihi</time>
+                            <span class="comments_count"><a href="#">@gorus.Yorum.Count</a></span>
+                        </p>
+                    </div>
+                    <p class="text">
+                        @if (gorus.Icerik.Length > 100)
+    {
+                    @gorus.Icerik.Substring(0, 100) ...
+                    }
+                        else
+                        {
+                            @gorus.Icerik
+                        }
+                    </p>
+                    <p class="text"><a href="/Gorus/GorusGoster/@gorus.Baslik/@gorus.Id" class="view_all"><span><span>Tümünü Oku</span></span></a></p>
+                </article>
+            </li>
+            
+        }
+    </ul>
+</aside>

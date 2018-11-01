@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = null;
+}
+@model List<Haber>
+
+    @helper IcerikKisalt(string metin)
+        {
+if (metin.Length < 180)
+{
+     @metin
+}
+else
+{
+    @metin.Substring(0, 180) 
+}
+}
+
+    <aside id="block_front_slider" class="block">
+        <div class="content ad-gallery">
+            <div class="ad-image-wrapper"></div>
+            <div class="ad-controls"></div>
+            <div class="ad-nav">
+                <div class="ad-thumbs">
+                    <ul class="ad-thumb-list">
+                        @foreach (var haber in Model)
+    {
+                        <li> <a href="@haber.ResimYol"><img width="72" height="42" src="@haber.KucukResimYol" title='<marquee> @haber.Baslik </marquee>' alt="@IcerikKisalt(haber.Ozet) [..]" /></a> </li>
+}
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </aside>
